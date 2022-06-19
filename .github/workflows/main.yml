@@ -25,7 +25,7 @@ jobs:
     - name: Build with Gradle
       run: ./gradlew build
       
-    # Execute unit tests online Yes
+    # Execute unit tests online So has
     - name: Unit Test
       run: ./gradlew testDebugUnitTest
 
